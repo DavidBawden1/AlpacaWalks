@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AlpacaWalks/App_Data/NuGetBackup
+/packages
+/AlpacaWalks/bin
+/AlpacaWalks/config
+/AlpacaWalks/App_Browsers
+/AlpacaWalks/App_Plugins/ModelsBuilder
+/AlpacaWalks/Media
+/AlpacaWalks/obj/Debug
