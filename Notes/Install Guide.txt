@@ -1,0 +1,16 @@
+Install umbraco.
+
+Install SQL Server 20xx.
+
+	Create Database
+	Create SQL Server Login Mixed mode.
+	Uncheck Password policy.
+
+Build project.
+
+Run Project.  
+
+Create account.
+
+Connect To SQL Database.
+
