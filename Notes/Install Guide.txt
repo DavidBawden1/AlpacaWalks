@@ -14,3 +14,12 @@ Create account.
 
 Connect To SQL Database.
 
+Go to the Dashboard. 
+
+Content - this is the tab where customisations to each page can be made. 
+	Home 
+		... - allows creation of pages. deriving from the parent page type. 
+
+Stylesheets - rich text editors can be added to rte for customisation of fonts. new stylesheet files can be added. enables work directly from the browser. 
+
+
